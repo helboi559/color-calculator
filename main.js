@@ -31,8 +31,26 @@ if (response === 'combine') {
     }
 } 
 
-//ask for indiv. color & anyting else error
-        //log new color
-//cond if decomp 
-    //ask for 1 color  anyting else error
-        //log 2 colors
+
+//STRETCH GOALS
+// const prompt = require('prompt-sync')();
+// const response = prompt('select your color(s): ')
+
+// const colors = 'red blue yellow purple green orange'
+// //const combined = 'purple,green,orange'
+
+// if(colors.includes('red') && colors.includes('blue')) {
+//   console.log('purple')
+// } else if (colors.includes('red') && colors.includes('yellow')) {
+//   console.log('orange')
+// } else if(colors.includes('yellow') && colors.includes('blue')) {
+//   console.log('green')
+// } else if(colors.includes('purple')) {
+//   console.log('red and blue')
+// } else if(colors.includes('green')) {
+//   console.log('blue and yellow')
+// } else if(colors.includes('orange')) {
+//   console.log('red and yellow')
+// } else {
+//   console.log("who knows")
+// }
